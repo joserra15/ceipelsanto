@@ -8,6 +8,5 @@ build
 .DS_Store
 media
 public/media
-src/app/(payload)/admin/importMap.js
 *.log
 .turbo
