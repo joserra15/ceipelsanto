@@ -1,0 +1,13 @@
+node_modules
+.next
+dist
+build
+*.db
+*.db-*
+.env
+.DS_Store
+media
+public/media
+src/app/(payload)/admin/importMap.js
+*.log
+.turbo
